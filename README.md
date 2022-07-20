@@ -1,2 +1,2 @@
-# Passive_Dynamic_Walking_Robot
+# Passive Dynamic Walking Robot
 [MATLAB] Passive Dynamic Walking Robot Code
