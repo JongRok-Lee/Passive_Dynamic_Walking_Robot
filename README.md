@@ -30,8 +30,8 @@
   - Leg mass asymmetric model
 
 
-
-
+## Animations
+<iframe width="956" height="538" src="https://www.youtube.com/watch?v=DeXdCqZcipg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
