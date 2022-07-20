@@ -37,8 +37,10 @@
 4. [Flat foot model](https://www.youtube.com/watch?v=doJ_VDmV1NY)
 5. [Arced foot model](https://www.youtube.com/watch?v=Vjc_zfDn41E)
 6. [Compass gait model vs knee model](https://www.youtube.com/watch?v=H8R792eplYI)
----
 
+## How to run?
+Run each `run.m` matlab code
+---
 ### Reference
 
 1. McGeer, Tad. "Passive dynamic walking." *Int. J. Robotics Res.* 9.2 (1990): 62-82. [[PDF](https://users.dimi.uniud.it/~antonio.dangelo/Robotica/2019/helper/leggedRobot/McGeer-Passive_dynamic_walking.pdf)]
