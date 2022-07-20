@@ -31,8 +31,12 @@
 
 
 ## Animations
-<iframe width="956" height="538" src="https://www.youtube.com/watch?v=DeXdCqZcipg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+1. [Compass gait model](https://www.youtube.com/watch?v=DeXdCqZcipg)
+2. [Knee model](https://www.youtube.com/watch?v=vPDPf6PshCQ)
+3. [Upper body model](https://www.youtube.com/watch?v=3Y8wHeiZg9U)
+4. [Flat foot model](https://www.youtube.com/watch?v=doJ_VDmV1NY)
+5. [Arced foot model](https://www.youtube.com/watch?v=Vjc_zfDn41E)
+6. [Compass gait model vs knee model](https://www.youtube.com/watch?v=H8R792eplYI)
 ---
 
 ### Reference
